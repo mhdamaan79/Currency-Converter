@@ -31,7 +31,7 @@ Responsive Currency Converter is designed to provide users with a convenient way
 ### **Note🔻** 
 Please be aware that the functionality of the converter may be affected if the ExchangeRate-API request quota of 1500 requests per month is exceeded.
 
-## 📌 Live Site URL: <a href="https://currency-converter-79.netlify.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://currency-converter-web-app-79.netlify.app/">**Visit Now** 🚀</a>
 
 ## 📬 Connect With Me
 
